@@ -1,1 +1,4 @@
 flask
+langchain
+openai
+google-search-results
